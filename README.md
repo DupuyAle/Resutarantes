@@ -1,14 +1,14 @@
 # Alejandro Dupuy
 
-## Temática del sitio:
+## About Website:
 
 A website for Restaurant
 
-## Objetivo
+## Objetive
 
 Offer to Restaurant a WebSite where they can add, change or delete products from the menu
 
-## Descripción
+## Description
 
 The website will be completely customizable by restaurants, providing an easy way for them.
 
