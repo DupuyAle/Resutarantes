@@ -17,3 +17,6 @@ The website will be completely customizable by restaurants, providing an easy wa
 - Home (Where you can see all the dishes)
 - Register and Login (Where the owner or owners can enter)
 - About us (a small description of the restaurant)
+- Contacts
+- Login
+- Create , update and delete product
